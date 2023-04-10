@@ -1,4 +1,3 @@
-
 ![Hello World](https://github.com/JulkA-Naz/JulkA-Naz/blob/main/my-git.png)
 
 
