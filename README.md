@@ -1,5 +1,9 @@
-<h1 align="center">👋 Hello World, I'm Julia!</h1>
-<h3 align="center">And I'm an HTML-coder</h3>
+
+<h1 align="center"> https://github.com/JulkA-Naz/JulkA-Naz/blob/main/my-git.png </h1>
+
+
+<!-- <h1 align="center">👋 Hello World, I'm Julia!</h1>
+<h3 align="center">And I'm an HTML-coder</h3> -->
 
 - 📝 A problem well stated is a problem half solved [Charles Kettering. Inventor, engineer]
 
