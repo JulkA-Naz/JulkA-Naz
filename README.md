@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World, I'm Julia!</h1>
+<h1 align="center" display="block" font-size="16px" background-color="yellow" padding="20px">👋 Hello World, I'm Julia!</h1>
 <h3 align="center">And I'm an HTML-coder</h3>
 
 - 📝 A problem well stated is a problem half solved [Charles Kettering. Inventor, engineer]
