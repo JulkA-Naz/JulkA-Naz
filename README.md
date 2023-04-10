@@ -1,5 +1,5 @@
 
-<h1 align="center"> ![Hello World](https://github.com/JulkA-Naz/JulkA-Naz/blob/main/my-git.png) </h1>
+![Hello World](https://github.com/JulkA-Naz/JulkA-Naz/blob/main/my-git.png)
 
 
 <!-- <h1 align="center">👋 Hello World, I'm Julia!</h1>
