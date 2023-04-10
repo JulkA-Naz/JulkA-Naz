@@ -1,4 +1,4 @@
-![Hello World](https://github.com/JulkA-Naz/JulkA-Naz/blob/main/my-git.png)
+![Hello World](https://github.com/JulkA-Naz/JulkA-Naz/blob/main/my-git.jpg)
 
 
 <!-- <h1 align="center">👋 Hello World, I'm Julia!</h1>
