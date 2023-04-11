@@ -4,7 +4,7 @@
 <!-- <h1 align="center">👋 Hello World, I'm Julia!</h1>
 <h3 align="center">And I'm an HTML-coder</h3> -->
 
-- 📝 A problem well stated is a problem half solved [Charles Kettering. Inventor, engineer]
+- 📝 A well-stated problem is half-solved. (Charles Kettering. Inventor, engineer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
